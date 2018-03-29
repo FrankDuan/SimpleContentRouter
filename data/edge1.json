@@ -1,0 +1,15 @@
+{
+  "edge1": {
+    "name": "edge1",
+    "status": "ok",
+    "workload": {
+      "bandwidth": 80,
+      "cpu": 92,
+      "memory": 80
+    },
+    "contents": ["contentId4", "contentId3"],
+    "health": {
+      "failRate": 0
+    }
+  }
+}
